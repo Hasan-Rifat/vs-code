@@ -1,0 +1,152 @@
+after complete 12xm
+
+{
+  //my code 1
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  // start
+  /* "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment"
+          // "entity.name.type.class",
+          // "keyword",
+          // "constant",
+          // "storage.modifier",
+          // "storage.type.class.js"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+ */
+  // end
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 20,
+  "debug.console.fontSize": 20,
+  "terminal.integrated.fontSize": 20,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "git.autofetch": true,
+  "editor.fontLigatures": true,
+  // "terminal.integrated.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono",
+  "bracketPairColorizer.depreciation-notice": true,
+  "editor.formatOnSave": true,
+  "tailwindCSS.emmetCompletions": true,
+  "editor.fontWeight": "600",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" //* use only clinet site
+    // "editor.formatOnSave": false, //! use only server site
+    // "editor.defaultFormatter": null //! use only server site
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.startupEditor": "none",
+  "synthwave84.brightness": 10,
+  "workbench.colorTheme": "Outrun Night",
+  "files.autoSave": "onFocusChange",
+  "workbench.editorAssociations": {
+    "*.css": "default"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "thunder-client.codeSnippetLanguage": "cs-httpclient"
+}
+
+// shomit vair code 2
+/* {
+  // editor
+  "editor.fontSize": 20,
+  "editor.fontFamily": "Operator Mono, Fira Code",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  // cursor
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  // config related to code formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.alwaysShowStatus": true,
+  //terminal
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.iconTheme": "vscode-icons",
+  // terminal customization
+  "workbench.colorCustomizations": {
+    "terminal.background": "#1D2021",
+    "terminal.foreground": "#A89984",
+    "terminalCursor.background": "#A89984",
+    "terminalCursor.foreground": "#A89984",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#0D6678",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#0D6678",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#95C085",
+    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightRed": "#FB543F",
+    "terminal.ansiBrightWhite": "#FDF4C1",
+    "terminal.ansiBrightYellow": "#FAC03B",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#95C085",
+    "terminal.ansiMagenta": "#8F4673",
+    "terminal.ansiRed": "#FB543F",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+  }
+}
+ */
+/*S3*/
+/* 
+{
+  "editor.fontSize": 20,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": 100,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontWeight": 100,
+  "debug.console.fontSize": 18,
+  "debug.console.fontFamily": "JetBrains Mono",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorTheme": "Learn with Sumit Theme - Dracula version"
+} */
